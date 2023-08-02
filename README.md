@@ -1,2 +1,2 @@
-# github
+# GitHub
 Repo GitHub
