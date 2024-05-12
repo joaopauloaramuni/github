@@ -2,8 +2,8 @@
 Repo GitHub
 
 Exemplo 1: https://github.com/joaopauloaramuni
-Exemplo 2: https://github.com/DavidsonFG
-Exemplo 3: https://github.com/flaviojuniordev
+<br>Exemplo 2: https://github.com/DavidsonFG
+<br>Exemplo 3: https://github.com/flaviojuniordev
 
 Links úteis:
 
