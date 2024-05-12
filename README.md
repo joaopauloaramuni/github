@@ -11,6 +11,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://shields.io/badges
 <br>https://github.com/kittinan/spotify-github-profile
 <br>https://github.com/JeffreyCA/spotify-recently-played-readme
+<br>https://data-card-for-spotify.herokuapp.com/
 <br>https://github.com/JeffreyCA/lastfm-recently-played-readme
 <br>https://patorjk.com/software/taag/
 <br>https://www.markdownguide.org/basic-syntax/
