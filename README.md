@@ -8,9 +8,9 @@ Exemplo 1: https://github.com/joaopauloaramuni
 Links úteis:
 
 https://github.com/Ileriayo/markdown-badges
-https://shields.io/badges
-https://github.com/kittinan/spotify-github-profile
-https://github.com/JeffreyCA/spotify-recently-played-readme
-https://github.com/JeffreyCA/lastfm-recently-played-readme
-https://patorjk.com/software/taag/
+<br>https://shields.io/badges
+<br>https://github.com/kittinan/spotify-github-profile
+<br>https://github.com/JeffreyCA/spotify-recently-played-readme
+<br>https://github.com/JeffreyCA/lastfm-recently-played-readme
+<br>https://patorjk.com/software/taag/
 
