@@ -13,4 +13,4 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/JeffreyCA/spotify-recently-played-readme
 <br>https://github.com/JeffreyCA/lastfm-recently-played-readme
 <br>https://patorjk.com/software/taag/
-
+<br>https://www.markdownguide.org/basic-syntax/
