@@ -23,6 +23,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://www.flaticon.com/br/
 <br>https://leviarista.github.io/github-profile-header-generator/
 <br>https://capsule-render.vercel.app/
+<br>https://github.com/antonkomarev/github-profile-views-counter
 
 Tamanho padrão do banner:
 <br>1080x200
