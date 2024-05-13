@@ -22,3 +22,6 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://www.markdownguide.org/basic-syntax/
 <br>https://www.flaticon.com/br/
 <br>https://leviarista.github.io/github-profile-header-generator/
+
+Tamanho padrão do banner:
+<br>1080x200
