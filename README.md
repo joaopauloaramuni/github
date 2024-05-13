@@ -7,7 +7,7 @@ Exemplo 1: https://github.com/joaopauloaramuni
 
 Imagens:
 
-<br>https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img
+https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img
 
 Links úteis:
 
