@@ -24,6 +24,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://leviarista.github.io/github-profile-header-generator/
 <br>https://capsule-render.vercel.app/
 <br>https://github.com/antonkomarev/github-profile-views-counter
+<br>https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 Tamanho padrão do banner:
 <br>1080x200
