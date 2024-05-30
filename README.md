@@ -1,6 +1,8 @@
 # GitHub
 Repo GitHub
 
+Link da gravação do Workshop: https://youtu.be/xOSsJEXmtts
+
 Exemplo 1: https://github.com/joaopauloaramuni
 <br>Exemplo 2: https://github.com/DavidsonFG
 <br>Exemplo 3: https://github.com/flaviojuniordev
