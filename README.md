@@ -30,3 +30,7 @@ https://github.com/Ileriayo/markdown-badges
 
 Tamanho padrão do banner:
 <br>1080x200
+
+Para texto colorido:
+${\color{red}Red}$
+${\color{red}R\color{green}G\color{blue}B}$
