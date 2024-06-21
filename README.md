@@ -33,4 +33,5 @@ Tamanho padrão do banner:
 
 Para texto colorido:
 ${\color{red}Red}$
+<br>
 ${\color{red}R\color{green}G\color{blue}B}$
