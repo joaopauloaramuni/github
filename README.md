@@ -32,6 +32,7 @@ Tamanho padrão do banner:
 <br>1080x200
 
 Para texto colorido:
+<br>
 ${\color{red}Red}$
 <br>
 ${\color{red}R\color{green}G\color{blue}B}$
