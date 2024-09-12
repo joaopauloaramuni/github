@@ -38,3 +38,14 @@ Para texto colorido:
 ${\color{red}Red}$
 <br>
 ${\color{red}R\color{green}G\color{blue}B}$
+
+Comandos Git
+<br>
+
+https://ohmygit.org/
+<br>https://github.com/settings/tokens
+<br>https://docs.github.com/en/get-started/getting-started-with-git
+<br>https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
+<br>https://desktop.github.com/download/
+<br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
+
