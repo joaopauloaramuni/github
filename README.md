@@ -32,7 +32,8 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/vn7n24fzkq/github-profile-summary-cards
 <br>https://github.com/anmol098/waka-readme-stats
 <br>https://github.com/ashutosh00710/github-readme-activity-graph
-<br>https://github.com/denvercoder1/github-readme-streak-stats?tab=readme-ov-file
+<br>https://github.com/denvercoder1/github-readme-streak-stats
+<br>https://streak-stats.demolab.com/demo/
 <br>https://github.com/DenverCoder1/github-readme-youtube-stats
 <br>https://github.com/ryo-ma/github-profile-trophy
 <br>https://github.com/PiyushSuthar/github-readme-quotes
