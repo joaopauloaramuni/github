@@ -39,7 +39,7 @@ ${\color{red}Red}$
 <br>
 ${\color{red}R\color{green}G\color{blue}B}$
 
-Comandos Git
+Comandos Git:
 <br>
 
 https://git-scm.com/downloads
@@ -50,6 +50,9 @@ https://git-scm.com/downloads
 <br>https://desktop.github.com/download/
 <br>https://ohmygit.org/
 <br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
+
+<br>git config --global user.name "Fulano de Tal"
+<br>git config --global user.email fulanodetal@exemplo.br
 
 <br>git clone https://github.com/joaopauloaramuni/joaopauloaramuni.git
 <br>git init
