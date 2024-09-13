@@ -49,6 +49,7 @@ https://git-scm.com/downloads
 <br>https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
 <br>https://desktop.github.com/download/
 <br>https://ohmygit.org/
+<br>https://education.github.com/git-cheat-sheet-education.pdf
 <br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
 
 <br>git config --global user.name "Fulano de Tal"
