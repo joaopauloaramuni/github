@@ -50,6 +50,7 @@ https://git-scm.com/downloads
 <br>https://desktop.github.com/download/
 <br>https://ohmygit.org/
 <br>https://education.github.com/git-cheat-sheet-education.pdf
+<br>https://about.gitlab.com/images/press/git-cheat-sheet.pdf
 <br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
 
 <br>git config --global user.name "Fulano de Tal"
