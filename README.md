@@ -51,3 +51,9 @@ https://git-scm.com/downloads
 <br>https://ohmygit.org/
 <br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
 
+<br>git clone https://github.com/joaopauloaramuni/joaopauloaramuni.git
+<br>git init
+<br>git add .
+<br>git commit -m "Exemplo git"
+<br>git remote set-url origin https://github.com/joaopauloaramuni/joaopauloaramuni.git
+<br>git push origin main
