@@ -31,6 +31,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/anuraghazra/github-readme-stats
 <br>https://github.com/vn7n24fzkq/github-profile-summary-cards
 <br>https://github.com/anmol098/waka-readme-stats
+<br>https://github.com/ashutosh00710/github-readme-activity-graph
 
 Tamanho padrão do banner:
 <br>1080x200
