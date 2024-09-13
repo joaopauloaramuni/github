@@ -31,7 +31,6 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/anuraghazra/github-readme-stats
 <br>https://github.com/vn7n24fzkq/github-profile-summary-cards
 <br>https://github-profile-summary-cards.vercel.app/demo.html
-<br>https://github.com/anuraghazra/github-readme-stats
 
 Tamanho padrão do banner:
 <br>1080x200
