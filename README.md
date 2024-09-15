@@ -37,6 +37,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/DenverCoder1/github-readme-youtube-stats
 <br>https://github.com/ryo-ma/github-profile-trophy
 <br>https://github.com/PiyushSuthar/github-readme-quotes
+<br>https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 Tamanho padrão do banner:
 <br>1080x200
