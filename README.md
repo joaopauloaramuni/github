@@ -40,6 +40,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/denvercoder1/readme-typing-svg
 <br>https://readme-typing-svg.demolab.com/demo/
 <br>https://github.com/abhisheknaiidu/awesome-github-profile-readme
+<br>https://github.com/lowlighter/metrics
 
 Tamanho padrão do banner:
 <br>1080x200
