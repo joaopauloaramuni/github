@@ -27,6 +27,7 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://capsule-render.vercel.app/
 <br>https://github.com/antonkomarev/github-profile-views-counter
 <br>https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+<br>https://gist.github.com/rxaviers/7360908
 <br>https://github-profile-summary-cards.vercel.app/demo.html
 <br>https://github.com/anuraghazra/github-readme-stats
 <br>https://github.com/vn7n24fzkq/github-profile-summary-cards
