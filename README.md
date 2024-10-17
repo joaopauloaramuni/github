@@ -55,7 +55,7 @@ ${\color{red}Red}$
 <br>
 ${\color{red}R\color{green}G\color{blue}B}$
 
-Comandos Git:
+Comandos Git úteis:
 <br>
 
 https://git-scm.com/downloads
@@ -70,10 +70,10 @@ https://git-scm.com/downloads
 <br>https://www.reddit.com/r/git/comments/5m5fdz/git_cheat_sheet/
 <br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
 
-<br>git config --global user.name "Fulano de Tal"
+git config --global user.name "Fulano de Tal"
 <br>git config --global user.email fulanodetal@exemplo.br
 
-<br>git clone https://github.com/joaopauloaramuni/joaopauloaramuni.git
+git clone https://github.com/joaopauloaramuni/joaopauloaramuni.git
 <br>git init
 <br>git add .
 <br>git commit -m "Exemplo git"
