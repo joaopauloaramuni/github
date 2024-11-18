@@ -45,6 +45,8 @@ https://github.com/Ileriayo/markdown-badges
 <br>https://github.com/nastyox/Repo-Roster
 <br>https://reporoster.com/
 <br>https://github.com/marketplace
+<br>https://www.githubtrends.io/
+<br>https://github.com/avgupta456/github-trends
 
 Tamanho padrão do banner:
 <br>1080x200
