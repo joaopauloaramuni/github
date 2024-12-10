@@ -1,5 +1,10 @@
-# GitHub
-Repo GitHub
+-----
+
+<img alt="github" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/github-header-image.png?raw=true"/>
+
+-----
+
+# Repo GitHub
 
 Link da gravação do Workshop: https://youtu.be/xOSsJEXmtts
 
