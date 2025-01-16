@@ -66,17 +66,19 @@
 - [Repo Roster Website](https://reporoster.com/)
 - [GitHub Marketplace](https://github.com/marketplace)
 
-### Imagens:
+### Imagens
 - [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
 
-#### Tamanho padrão do banner:
+#### Tamanho padrão do banner
 - 1080x200
 
-#### Para texto colorido:
+#### Para texto colorido
 - ${\color{red}Red}$
 - ${\color{red}R\color{green}G\color{blue}B}$
 
-## Comandos Git úteis:
+## Git
+
+### Links úteis
 
 - [Download Git](https://git-scm.com/downloads)
 - [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git)
@@ -90,12 +92,17 @@
 - [Git Cheat Sheet no Reddit](https://www.reddit.com/r/git/comments/5m5fdz/git_cheat_sheet/)
 - [Git Cheatsheet Image](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
 
+### Comandos Git úteis
+
+```
 git config --global user.name "Fulano de Tal"
-<br>git config --global user.email fulanodetal@exemplo.br
+git config --global user.email fulanodetal@exemplo.br
 
 git clone https://github.com/joaopauloaramuni/joaopauloaramuni.git
-<br>git init
-<br>git add .
-<br>git commit -m "Exemplo git"
-<br>git remote set-url origin https://github.com/joaopauloaramuni/joaopauloaramuni.git
-<br>git push origin main
+git init
+git add .
+git commit -m "Exemplo git"
+git remote set-url origin https://github.com/joaopauloaramuni/joaopauloaramuni.git
+git push origin main
+```
+-----
