@@ -6,55 +6,68 @@
 
 # Repo GitHub
 
-Link da gravação do Workshop: https://youtu.be/xOSsJEXmtts
+[Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
 
-Exemplo 1: https://github.com/joaopauloaramuni
-<br>Exemplo 2: https://github.com/DavidsonFG
-<br>Exemplo 3: https://github.com/flaviojuniordev
-<br>Exemplo 4: https://github.com/Yuut-Reis
+## Exemplos de perfis
 
-Imagens:
+[Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)  
+[Exemplo 2 - DavidsonFG](https://github.com/DavidsonFG)  
+[Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)  
+[Exemplo 4 - Yuut Reis](https://github.com/Yuut-Reis)
 
-https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img
+## Links úteis
 
-Links úteis:
+### Badges e estatísticas
+- [Markdown Badges - Ileriayo](https://github.com/Ileriayo/markdown-badges)
+- [Shields.io - Badges](https://shields.io/badges)
+- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+- [GitHub Readme Stats - Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
+- [WakaTime Readme Stats - Anmol098](https://github.com/anmol098/waka-readme-stats)
+- [WakaTime API Key Settings](https://wakatime.com/settings/api-key)
+- [WakaTime Stats API](https://github-readme-stats.vercel.app/api/wakatime?username=aramuni)
+- [GitHub Readme Activity Graph - Ashutosh00710](https://github.com/ashutosh00710/github-readme-activity-graph)
+- [GitHub Readme Streak Stats - DenverCoder1](https://github.com/denvercoder1/github-readme-streak-stats)
+- [Streak Stats Demo](https://streak-stats.demolab.com/demo/)
+- [GitHub Profile Trophy - Ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
+- [GitHub Profile Quotes - PiyushSuthar](https://github.com/PiyushSuthar/github-readme-quotes)
+- [Readme Typing SVG - DenverCoder1](https://github.com/denvercoder1/readme-typing-svg)
+- [Readme Typing SVG Demo](https://readme-typing-svg.demolab.com/demo/)
+- [Metrics - Lowlighter](https://github.com/lowlighter/metrics)
 
-https://github.com/Ileriayo/markdown-badges
-<br>https://shields.io/badges
-<br>https://github.com/kittinan/spotify-github-profile
-<br>https://github.com/JeffreyCA/spotify-recently-played-readme
-<br>https://data-card-for-spotify.herokuapp.com/
-<br>https://github.com/JeffreyCA/lastfm-recently-played-readme
-<br>https://patorjk.com/software/taag/
-<br>https://www.markdownguide.org/basic-syntax/
-<br>https://www.flaticon.com/br/
-<br>https://leviarista.github.io/github-profile-header-generator/
-<br>https://capsule-render.vercel.app/
-<br>https://github.com/antonkomarev/github-profile-views-counter
-<br>https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
-<br>https://gist.github.com/rxaviers/7360908
-<br>https://github-profile-summary-cards.vercel.app/demo.html
-<br>https://github.com/anuraghazra/github-readme-stats
-<br>https://github.com/vn7n24fzkq/github-profile-summary-cards
-<br>https://github.com/anmol098/waka-readme-stats
-<br>https://github-readme-stats.vercel.app/api/wakatime?username=aramuni
-<br>https://wakatime.com/settings/api-key
-<br>https://github.com/ashutosh00710/github-readme-activity-graph
-<br>https://github.com/denvercoder1/github-readme-streak-stats
-<br>https://streak-stats.demolab.com/demo/
-<br>https://github.com/DenverCoder1/github-readme-youtube-stats
-<br>https://github.com/ryo-ma/github-profile-trophy
-<br>https://github.com/PiyushSuthar/github-readme-quotes
-<br>https://github.com/denvercoder1/readme-typing-svg
-<br>https://readme-typing-svg.demolab.com/demo/
-<br>https://github.com/abhisheknaiidu/awesome-github-profile-readme
-<br>https://github.com/lowlighter/metrics
-<br>https://github.com/nastyox/Repo-Roster
-<br>https://reporoster.com/
-<br>https://github.com/marketplace
-<br>https://www.githubtrends.io/
-<br>https://github.com/avgupta456/github-trends
-<br>https://postspark.app/github-contributions
+### Spotify e Last.fm
+- [Spotify GitHub Profile - Kittinan](https://github.com/kittinan/spotify-github-profile)
+- [Spotify Recently Played Readme - JeffreyCA](https://github.com/JeffreyCA/spotify-recently-played-readme)
+- [Data Card for Spotify](https://data-card-for-spotify.herokuapp.com/)
+- [Last.fm Recently Played Readme - JeffreyCA](https://github.com/JeffreyCA/lastfm-recently-played-readme)
+
+### Markdown e design
+- [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [TAAG - ASCII Text Art Generator](https://patorjk.com/software/taag/)
+- [Flaticon - Ícones Gratuitos](https://www.flaticon.com/br/)
+- [GitHub Profile Header Generator](https://leviarista.github.io/github-profile-header-generator/)
+- [Capsule Render](https://capsule-render.vercel.app/)
+
+### Emojis e gists
+- [Emoji Cheat Sheet - Ikatyang](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)
+- [Emoji Shortcodes Gist](https://gist.github.com/rxaviers/7360908)
+
+### Resumo de perfis e estatísticas
+- [GitHub Profile Summary Cards Demo](https://github-profile-summary-cards.vercel.app/demo.html)
+- [GitHub Profile Summary Cards - VN7N24FZKQ](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+### Trends e contribuições
+- [GitHub Trends](https://www.githubtrends.io/)
+- [GitHub Trends - Avgupta456](https://github.com/avgupta456/github-trends)
+- [PostSpark - GitHub Contributions](https://postspark.app/github-contributions)
+
+### Outras ferramentas
+- [Awesome GitHub Profile Readme - AbhishekNaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [Repo Roster - Nastyox](https://github.com/nastyox/Repo-Roster)
+- [Repo Roster Website](https://reporoster.com/)
+- [GitHub Marketplace](https://github.com/marketplace)
+
+### Imagens:
+- [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
 
 Tamanho padrão do banner:
 <br>1080x200
