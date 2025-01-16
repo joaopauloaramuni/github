@@ -69,8 +69,9 @@
 ### Imagens:
 - [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
 
-Tamanho padrão do banner:
-<br>1080x200
+#### Tamanho padrão do banner:
+
+1080x200
 
 Para texto colorido:
 <br>
