@@ -70,14 +70,11 @@
 - [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
 
 #### Tamanho padrão do banner:
+- 1080x200
 
-1080x200
-
-Para texto colorido:
-<br>
-${\color{red}Red}$
-<br>
-${\color{red}R\color{green}G\color{blue}B}$
+#### Para texto colorido:
+- ${\color{red}Red}$
+- ${\color{red}R\color{green}G\color{blue}B}$
 
 ## Comandos Git úteis:
 
