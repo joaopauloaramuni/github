@@ -66,13 +66,13 @@
 - [Repo Roster Website](https://reporoster.com/)
 - [GitHub Marketplace](https://github.com/marketplace)
 
-### Imagens
+## Imagens
 - [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
 
-#### Tamanho padrão do banner
+### Tamanho padrão do banner
 - 1080x200
 
-#### Para texto colorido
+### Para texto colorido
 - ${\color{red}Red}$
 - ${\color{red}R\color{green}G\color{blue}B}$
 
