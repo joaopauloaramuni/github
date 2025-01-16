@@ -6,14 +6,14 @@
 
 # Repo GitHub
 
-[Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
+- [Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
 
 ## Exemplos de perfis
 
-[Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)  
-[Exemplo 2 - DavidsonFG](https://github.com/DavidsonFG)  
-[Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)  
-[Exemplo 4 - Yuut Reis](https://github.com/Yuut-Reis)
+- [Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)
+- [Exemplo 2 - DavidsonFG](https://github.com/DavidsonFG)
+- [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
+- [Exemplo 4 - Yuut Reis](https://github.com/Yuut-Reis)
 
 ## Links úteis
 
@@ -78,20 +78,19 @@ ${\color{red}Red}$
 <br>
 ${\color{red}R\color{green}G\color{blue}B}$
 
-Comandos Git úteis:
-<br>
+## Comandos Git úteis:
 
-https://git-scm.com/downloads
-<br>https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git
-<br>https://github.com/settings/tokens
-<br>https://docs.github.com/en/get-started/getting-started-with-git
-<br>https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens
-<br>https://desktop.github.com/download/
-<br>https://ohmygit.org/
-<br>https://education.github.com/git-cheat-sheet-education.pdf
-<br>https://about.gitlab.com/images/press/git-cheat-sheet.pdf
-<br>https://www.reddit.com/r/git/comments/5m5fdz/git_cheat_sheet/
-<br>https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg
+- [Download Git](https://git-scm.com/downloads)
+- [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git)
+- [GitHub - Tokens de Acesso](https://github.com/settings/tokens)
+- [Introdução ao Git - Documentação GitHub](https://docs.github.com/en/get-started/getting-started-with-git)
+- [Gerenciando Tokens Pessoais no GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
+- [GitHub Desktop - Download](https://desktop.github.com/download/)
+- [Oh My Git!](https://ohmygit.org/)
+- [Git Cheat Sheet (GitHub Education)](https://education.github.com/git-cheat-sheet-education.pdf)
+- [Git Cheat Sheet (GitLab)](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
+- [Git Cheat Sheet no Reddit](https://www.reddit.com/r/git/comments/5m5fdz/git_cheat_sheet/)
+- [Git Cheatsheet Image](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
 
 git config --global user.name "Fulano de Tal"
 <br>git config --global user.email fulanodetal@exemplo.br
