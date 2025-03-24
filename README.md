@@ -59,6 +59,7 @@
 - [GitHub Trends](https://www.githubtrends.io/)
 - [GitHub Trends - Avgupta456](https://github.com/avgupta456/github-trends)
 - [PostSpark - GitHub Contributions](https://postspark.app/github-contributions)
+- [Generate Snake Game](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
 
 ### Outras ferramentas
 - [Awesome GitHub Profile Readme - AbhishekNaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
