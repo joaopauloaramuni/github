@@ -6,7 +6,12 @@
 
 # Repo GitHub
 
+## Workshop de construção do perfil do GitHub
 - [Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
+
+| ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop1.jpg) | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop2.jpg) |
+|:--:|:--:|
+| Workshop de construção do perfil do GitHub| Realizado no Centro Universitário Newton Paiva em 14/05/2025 |
 
 ## Exemplos de perfis
 
