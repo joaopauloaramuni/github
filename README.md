@@ -13,11 +13,9 @@
 | Workshop de construção do perfil do GitHub| Realizado no Centro Universitário Newton Paiva em 14/05/2025 |
 
 #### :movie_camera: Assista no YouTube:
-
 - [Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
 
 ### Exemplos de perfis:
-
 - [Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)
 - [Exemplo 2 - DavidsonFG](https://github.com/DavidsonFG)
 - [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
@@ -99,13 +97,20 @@
 
 #### 🧪 Git
 
+##### ⬇️ Downloads e Instalação
 - [Download Git](https://git-scm.com/downloads)
+- [GitHub Desktop - Download](https://desktop.github.com/download/)
+
+##### ⚙️ Configuração e Autenticação
 - [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git)
 - [GitHub - Tokens de Acesso](https://github.com/settings/tokens)
-- [Introdução ao Git - Documentação GitHub](https://docs.github.com/en/get-started/getting-started-with-git)
 - [Gerenciando Tokens Pessoais no GitHub](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
-- [GitHub Desktop - Download](https://desktop.github.com/download/)
+
+##### 📚 Documentação e Guias
+- [Introdução ao Git - Documentação GitHub](https://docs.github.com/en/get-started/getting-started-with-git)
 - [Oh My Git!](https://ohmygit.org/)
+
+##### 📝 Cheatsheets e Resumos Rápidos
 - [Git Cheat Sheet (GitHub Education)](https://education.github.com/git-cheat-sheet-education.pdf)
 - [Git Cheat Sheet (GitLab)](https://about.gitlab.com/images/press/git-cheat-sheet.pdf)
 - [Git Cheat Sheet no Reddit](https://www.reddit.com/r/git/comments/5m5fdz/git_cheat_sheet/)
