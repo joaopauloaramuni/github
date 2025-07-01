@@ -27,8 +27,6 @@
 
 ### Links úteis:
 
------
-
 #### 🏅 Visualização, estatísticas e engajamento no GitHub
 
 ##### 📊 Estatísticas de contribuição e métricas
