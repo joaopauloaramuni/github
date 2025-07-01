@@ -23,7 +23,7 @@
 - [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
 - [Exemplo 4 - Yuut Reis](https://github.com/Yuut-Reis)
 
-### 📎 Links úteis
+### Links úteis
 
 #### 🏅 Badges e estatísticas
 - [Markdown Badges - Ileriayo](https://github.com/Ileriayo/markdown-badges)
@@ -79,19 +79,17 @@
 - [Repo Roster Website](https://reporoster.com/)
 - [GitHub Marketplace](https://github.com/marketplace)
 
-### 🖼️ Imagens
+#### 🖼️ Imagens
 - [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
 
-#### 📏 Tamanho padrão do banner
+##### 📏 Tamanho padrão do banner
 - 1080x200
 
-### 🎨 Para texto colorido
+##### 🎨 Para texto colorido
 - ${\color{red}Red}$
 - ${\color{red}R\color{green}G\color{blue}B}$
 
-### 🧪 Git
-
-#### 🔗 Links úteis
+#### 🧪 Git
 
 - [Download Git](https://git-scm.com/downloads)
 - [Configuração Inicial do Git](https://git-scm.com/book/pt-br/v2/Começando-Configuração-Inicial-do-Git)
@@ -108,15 +106,54 @@
 ##### 🛠️ Comandos Git úteis
 
 ```bash
-git config --global user.name "Fulano de Tal"
-git config --global user.email fulanodetal@exemplo.br
+# Configuração inicial (executar uma vez por máquina)
+git config --global user.name "Fulano de Tal"         # Define seu nome de usuário globalmente
+git config --global user.email fulanodetal@exemplo.br # Define seu e-mail globalmente
+git config --global init.defaultBranch main           # Define 'main' como nome padrão do branch
 
+# Criando um novo repositório local
+git init                         # Inicializa um repositório Git vazio na pasta atual
+git add .                        # Adiciona todas as alterações ao stage
+git commit -m "Primeiro commit"  # Cria um commit com uma mensagem
+
+# Conectando ao repositório remoto
+git remote add origin https://github.com/joaopauloaramuni/joaopauloaramuni.git  # Adiciona repositório remoto
+git remote set-url origin https://github.com/joaopauloaramuni/joaopauloaramuni.git # Atualiza URL remota
+
+# Enviando para o GitHub
+git push -u origin main          # Envia o branch 'main' e define como upstream
+
+# Clonando repositório existente
 git clone https://github.com/joaopauloaramuni/joaopauloaramuni.git
-git init
-git add .
-git commit -m "Exemplo git"
-git remote set-url origin https://github.com/joaopauloaramuni/joaopauloaramuni.git
-git push origin main
+
+# Verificando o status e histórico
+git status                       # Mostra arquivos modificados e não versionados
+git log --oneline                # Exibe histórico de commits de forma compacta
+git diff                         # Mostra diferenças entre arquivos modificados e últimos commits
+
+# Trabalhando com branches
+git branch                       # Lista branches locais
+git branch nome-do-branch        # Cria um novo branch
+git checkout nome-do-branch      # Troca para outro branch
+git checkout -b novo-branch      # Cria e muda para o novo branch
+git merge nome-do-branch         # Mescla outro branch com o atual
+git branch -d nome-do-branch     # Exclui branch local
+
+# Atualizando seu repositório local
+git pull                         # Baixa mudanças e integra automaticamente (fetch + merge)
+git fetch                        # Apenas baixa mudanças do remoto (sem aplicar)
+
+# Desfazendo ações
+git reset arquivo.txt            # Remove arquivo do stage (unstage)
+git checkout -- arquivo.txt      # Descarta mudanças locais não commitadas
+git reset --hard HEAD            # Volta ao último commit (perde todas as mudanças locais)
+
+# Ignorando arquivos
+echo "secrets.env" >> .gitignore # Adiciona arquivo ao .gitignore
+git rm --cached secrets.env      # Remove arquivo do stage, mas mantém localmente
+
+# Visualizando e alterando configurações
+git config --list                # Lista todas as configurações atuais
 ```
 
 -----
