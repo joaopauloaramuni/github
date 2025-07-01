@@ -19,9 +19,9 @@
 
 ### Exemplos de perfis:
 - [Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)
-- [Exemplo 2 - DavidsonFG](https://github.com/DavidsonFG)
+- [Exemplo 2 - Lucas Maia](https://github.com/lucasmaiia)
 - [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
-- [Exemplo 4 - Yuut Reis](https://github.com/Yuut-Reis)
+- [Exemplo 4 - DavidsonFG](https://github.com/DavidsonFG)
 
 -----
 
