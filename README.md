@@ -130,6 +130,8 @@
 - [Git Cheat Sheet no Reddit](https://www.reddit.com/r/git/comments/5m5fdz/git_cheat_sheet/)
 - [Git Cheatsheet Image](https://rubygarage.s3.amazonaws.com/uploads/article_image/file/599/git-cheatsheet-5.jpg)
 
+-----
+
 ##### 🛠️ Comandos Git úteis
 
 ```bash
