@@ -27,6 +27,8 @@
 
 ### Links úteis:
 
+-----
+
 #### 🏅 Visualização, estatísticas e engajamento no GitHub
 
 ##### 📊 Estatísticas de contribuição e métricas
@@ -89,11 +91,13 @@
 - [GitHub Profile README Generator - Rahuldkjain](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [GitHub Profile README Generator - Demo](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-#### 🧩 Outras ferramentas
+#### 🧩 Outras ferramentas e exemplos
 - [Awesome GitHub Profile Readme - AbhishekNaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Repo Roster - Nastyox](https://github.com/nastyox/Repo-Roster)
 - [Repo Roster Website](https://reporoster.com/)
 - [GitHub Marketplace](https://github.com/marketplace)
+
+-----
 
 #### 🖼️ Imagens
 - [Aramuni - Imagens](https://github.com/joaopauloaramuni/joaopauloaramuni/tree/main/img)
