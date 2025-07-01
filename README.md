@@ -10,7 +10,7 @@
 
 | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop1.jpg) | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop2.jpg) |
 |:--:|:--:|
-| Workshop de construção do perfil do GitHub| Realizado no Centro Universitário Newton Paiva em 14/05/2025 |
+| 🛠️ Workshop de construção do perfil do GitHub| 📅 Realizado no Centro Universitário Newton Paiva em 14/05/2025 |
 
 #### :movie_camera: Assista no YouTube:
 - [Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
