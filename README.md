@@ -17,7 +17,7 @@
 
 -----
 
-### Exemplos de perfis:
+### 👨‍💻 Exemplos de perfis:
 - [Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)
 - [Exemplo 2 - Lucas Maia](https://github.com/lucasmaiia)
 - [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
