@@ -6,7 +6,7 @@
 
 # Repo GitHub
 
-### Workshop de construção do perfil do GitHub
+### 🧑‍🏫 Workshop de construção do perfil do GitHub
 
 | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop1.jpg) | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop2.jpg) |
 |:--:|:--:|
@@ -25,22 +25,30 @@
 
 ### Links úteis
 
-#### 🏅 Badges e estatísticas
-- [Markdown Badges - Ileriayo](https://github.com/Ileriayo/markdown-badges)
-- [Shields.io - Badges](https://shields.io/badges)
-- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
+#### 🏅 Visualização, estatísticas e engajamento no GitHub
+
+##### 📊 Estatísticas de Contribuição
 - [GitHub Readme Stats - Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
 - [WakaTime Readme Stats - Anmol098](https://github.com/anmol098/waka-readme-stats)
-- [WakaTime API Key Settings](https://wakatime.com/settings/api-key)
 - [WakaTime Stats API](https://github-readme-stats.vercel.app/api/wakatime?username=aramuni)
+- [WakaTime API Key Settings](https://wakatime.com/settings/api-key)
 - [GitHub Readme Activity Graph - Ashutosh00710](https://github.com/ashutosh00710/github-readme-activity-graph)
 - [GitHub Readme Streak Stats - DenverCoder1](https://github.com/denvercoder1/github-readme-streak-stats)
 - [Streak Stats Demo](https://streak-stats.demolab.com/demo/)
+- [Metrics - Lowlighter](https://github.com/lowlighter/metrics)
+
+##### 🛡️ Badges estáticos e dinâmicos
+- [Markdown Badges - Ileriayo](https://github.com/Ileriayo/markdown-badges)
+- [Shields.io - Badges](https://shields.io/badges)
+
+##### 👁️‍🗨️ Engajamento e visibilidade
+- [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [GitHub Profile Trophy - Ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
-- [GitHub Profile Quotes - PiyushSuthar](https://github.com/PiyushSuthar/github-readme-quotes)
+
+##### 🎨 Elementos visuais dinâmicos
 - [Readme Typing SVG - DenverCoder1](https://github.com/denvercoder1/readme-typing-svg)
 - [Readme Typing SVG Demo](https://readme-typing-svg.demolab.com/demo/)
-- [Metrics - Lowlighter](https://github.com/lowlighter/metrics)
+- [GitHub Profile Quotes - PiyushSuthar](https://github.com/PiyushSuthar/github-readme-quotes)
 
 #### 🎵 Spotify e Last.fm
 - [Spotify GitHub Profile - Kittinan](https://github.com/kittinan/spotify-github-profile)
