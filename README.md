@@ -25,15 +25,19 @@
 
 #### 🏅 Visualização, estatísticas e engajamento no GitHub
 
-##### 📊 Estatísticas de Contribuição
+##### 📊 Estatísticas de contribuição e métricas
+
+###### 📈 GitHub Readme Stats e atividades
 - [GitHub Readme Stats - Anuraghazra](https://github.com/anuraghazra/github-readme-stats)
-- [WakaTime Readme Stats - Anmol098](https://github.com/anmol098/waka-readme-stats)
-- [WakaTime Stats API](https://github-readme-stats.vercel.app/api/wakatime?username=aramuni)
-- [WakaTime API Key Settings](https://wakatime.com/settings/api-key)
 - [GitHub Readme Activity Graph - Ashutosh00710](https://github.com/ashutosh00710/github-readme-activity-graph)
 - [GitHub Readme Streak Stats - DenverCoder1](https://github.com/denvercoder1/github-readme-streak-stats)
 - [Streak Stats Demo](https://streak-stats.demolab.com/demo/)
 - [Metrics - Lowlighter](https://github.com/lowlighter/metrics)
+
+###### ⏱️ WakaTime Stats
+- [WakaTime Readme Stats - Anmol098](https://github.com/anmol098/waka-readme-stats)
+- [WakaTime Stats API](https://github-readme-stats.vercel.app/api/wakatime?username=aramuni)
+- [WakaTime API Key Settings](https://wakatime.com/settings/api-key)
 
 ##### 🛡️ Badges estáticos e dinâmicos
 - [Markdown Badges - Ileriayo](https://github.com/Ileriayo/markdown-badges)
