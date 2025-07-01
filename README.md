@@ -15,11 +15,15 @@
 #### :movie_camera: Assista no YouTube:
 - [Gravação do Workshop no YouTube](https://youtu.be/xOSsJEXmtts)
 
+-----
+
 ### Exemplos de perfis:
 - [Exemplo 1 - Aramuni](https://github.com/joaopauloaramuni)
 - [Exemplo 2 - DavidsonFG](https://github.com/DavidsonFG)
 - [Exemplo 3 - Flávio Jr](https://github.com/flaviojuniordev)
 - [Exemplo 4 - Yuut Reis](https://github.com/Yuut-Reis)
+
+-----
 
 ### Links úteis:
 
@@ -51,6 +55,8 @@
 - [Readme Typing SVG - DenverCoder1](https://github.com/denvercoder1/readme-typing-svg)
 - [Readme Typing SVG Demo](https://readme-typing-svg.demolab.com/demo/)
 - [GitHub Profile Quotes - PiyushSuthar](https://github.com/PiyushSuthar/github-readme-quotes)
+
+-----
 
 #### 🎵 Spotify e Last.fm
 - [Spotify GitHub Profile - Kittinan](https://github.com/kittinan/spotify-github-profile)
@@ -98,6 +104,8 @@
 ##### 🎨 Para texto colorido
 - ${\color{red}Red}$
 - ${\color{red}R\color{green}G\color{blue}B}$
+
+-----
 
 #### 🧪 Git
 
