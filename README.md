@@ -46,6 +46,7 @@
 ##### 🛡️ Badges estáticos e dinâmicos
 - [Markdown Badges - Ileriayo](https://github.com/Ileriayo/markdown-badges)
 - [Shields.io - Badges](https://shields.io/badges)
+- [Badges 4 README.md Profile - por alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile)
 
 ##### 👁️‍🗨️ Engajamento e visibilidade
 - [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
