@@ -110,6 +110,14 @@
 
 -----
 
+#### 🏗️ Roadmap Learn Git and GitHub
+
+Um **roadmap** é um guia visual que apresenta etapas, habilidades ou conhecimentos necessários para atingir um objetivo específico. Ele ajuda a organizar o aprendizado ou desenvolvimento ao longo do tempo, mostrando caminhos recomendados e prioridades.
+
+- 🗺️ [Roadmap Learn Git and GitHub - Roadmap.sh](https://roadmap.sh/git-github)
+
+-----
+
 #### 🧪 Git
 
 ##### ⬇️ Downloads e Instalação
