@@ -6,6 +6,8 @@
 
 # Repo GitHub
 
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/github?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/github?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/github?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/github?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/github?style=for-the-badge&color=007ec6)  
+
 ### 🧑‍🏫 Workshop de construção do perfil do GitHub
 
 | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop1.jpg) | ![Workshop](https://joaopauloaramuni.github.io/workshop-imgs/workshop2.jpg) |
