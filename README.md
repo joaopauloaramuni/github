@@ -54,6 +54,14 @@
 - [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [GitHub Profile Trophy - Ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
 
+#####  Contadores e badges de views/repositório
+- [repoViewsCounter – Avinash Yadav](https://github.com/avinashyadav16/repoViewsCounter)
+- Badge funcionando via Netlify + função serverless (estilo “repo views”):
+ ![GitHub Repository Views](https://repoviews.netlify.app/.netlify/functions/repoViews?repo=https://github.com/your_username/your_repository)  
+
+- [Dynamic-Repo-Badges (Dynamic Badges) – Ishanoshada](https://dynamic-badges.ishanoshada.com/)
+- Exemplos e temas interativos de Dynamic-Repo-Badges: [https://dynamic-badges.ishanoshada.com/#examples](https://dynamic-badges.ishanoshada.com/#examples)
+
 ##### 🎨 Elementos visuais dinâmicos
 - [Readme Typing SVG - DenverCoder1](https://github.com/denvercoder1/readme-typing-svg)
 - [Readme Typing SVG Demo](https://readme-typing-svg.demolab.com/demo/)
