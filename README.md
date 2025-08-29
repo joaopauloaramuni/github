@@ -6,7 +6,7 @@
 
 # Repo GitHub
 
-![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/github?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/github?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/github?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/github?style=for-the-badge) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/github?style=for-the-badge&color=007ec6) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/github?style=for-the-badge&color=007ec6)  
+![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/github?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/github?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/github?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/github?style=for-the-badge) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/github?style=for-the-badge&color=007ec6) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/github?style=for-the-badge)  
 
 ### 🧑‍🏫 Workshop de construção do perfil do GitHub
 
