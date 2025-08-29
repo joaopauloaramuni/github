@@ -55,7 +55,7 @@
 - [GitHub Profile Trophy - Ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
 
 ##### 👁️‍🗨️ Contadores e badges de views/repositório
-- [repoViewsCounter – Avinash Yadav](https://github.com/avinashyadav16/repoViewsCounter)
+- [Views Counter](https://views-counter.vercel.app/)
 - [Dynamic-Repo-Badges (Dynamic Badges) – Ishanoshada](https://dynamic-badges.ishanoshada.com/)
   - Exemplos e temas interativos de Dynamic-Repo-Badges:
   - [https://dynamic-badges.ishanoshada.com/#examples](https://dynamic-badges.ishanoshada.com/#examples)
