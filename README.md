@@ -8,10 +8,11 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/joaopauloaramuni/github?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/joaopauloaramuni/github?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/joaopauloaramuni/github?style=for-the-badge) ![GitHub language count](https://img.shields.io/github/languages/count/joaopauloaramuni/github?style=for-the-badge) ![GitHub license](https://img.shields.io/github/license/joaopauloaramuni/github?style=for-the-badge&color=007ec6) ![GitHub last commit](https://img.shields.io/github/last-commit/joaopauloaramuni/github?style=for-the-badge) 
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Fgithub&leftColor=555555&rightColor=007ec6&type=total&label=Visitors&style=none)
-
 
 ![Unique Visitors](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Fgithub&leftColor=555555&rightColor=007ec6&type=unique&label=Unique%20Visitors&style=none) 
+
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Fgithub&leftColor=555555&rightColor=007ec6&type=total&label=Total%20Views&style=none)
+
 
 ### 🧑‍🏫 Workshop de construção do perfil do GitHub
 
