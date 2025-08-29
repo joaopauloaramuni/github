@@ -59,7 +59,8 @@
   - Badge funcionando via Netlify + função serverless:  
   - ![GitHub Repository Views](https://repoviews.netlify.app/.netlify/functions/repoViews?repo=https://github.com/joaopauloaramuni/github)  
 - [Dynamic-Repo-Badges (Dynamic Badges) – Ishanoshada](https://dynamic-badges.ishanoshada.com/)
-  - Exemplos e temas interativos de Dynamic-Repo-Badges: [https://dynamic-badges.ishanoshada.com/#examples](https://dynamic-badges.ishanoshada.com/#examples)
+  - Exemplos e temas interativos de Dynamic-Repo-Badges:
+  - [https://dynamic-badges.ishanoshada.com/#examples](https://dynamic-badges.ishanoshada.com/#examples)
 
 ##### 🎨 Elementos visuais dinâmicos
 - [Readme Typing SVG - DenverCoder1](https://github.com/denvercoder1/readme-typing-svg)
