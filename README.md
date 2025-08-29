@@ -11,7 +11,7 @@
 
 ![Unique Visitors](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Fgithub&leftColor=555555&rightColor=007ec6&type=unique&label=Unique%20Visitors&style=none) 
 
-![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Fgithub&leftColor=555555&rightColor=007ec6&type=total&label=Unique%20Visitors&style=none)
+![Views Counter](https://views-counter.vercel.app/badge?pageId=https%3A%2F%2Fgithub%2Ecom%2Fjoaopauloaramuni%2Fgithub&leftColor=555555&rightColor=007ec6&type=total&label=Views&style=none)
 
 
 ### 🧑‍🏫 Workshop de construção do perfil do GitHub
