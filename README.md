@@ -54,6 +54,7 @@
 ##### 👁️‍🗨️ Engajamento e visibilidade
 - [GitHub Profile Views Counter](https://github.com/antonkomarev/github-profile-views-counter)
 - [GitHub Profile Trophy - Ryo-ma](https://github.com/ryo-ma/github-profile-trophy)
+- [Visit Counter](https://visit-counter.vercel.app/)
 
 ##### 👁️‍🗨️ Contadores e badges de views/repositório
 - [Views Counter](https://views-counter.vercel.app/)
