@@ -100,6 +100,9 @@
 - [GitHub Profile README Generator - Rahuldkjain](https://github.com/rahuldkjain/github-profile-readme-generator)
 - [GitHub Profile README Generator - Demo](https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
+#### 🧩 Widgets Skills
+- [GitHub Widgetbox - Jurredr](https://github.com/Jurredr/github-widgetbox)
+
 #### 🧩 Outras ferramentas e exemplos
 - [Awesome GitHub Profile Readme - AbhishekNaiidu](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 - [Repo Roster - Nastyox](https://github.com/nastyox/Repo-Roster)
