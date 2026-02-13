@@ -40,6 +40,8 @@
 - [GitHub Readme Streak Stats - DenverCoder1](https://github.com/denvercoder1/github-readme-streak-stats)
 - [Streak Stats Demo](https://streak-stats.demolab.com/demo/)
 - [Metrics - Lowlighter](https://github.com/lowlighter/metrics)
+- [Nice Readme - helio-carlitos](https://github.com/heliocarlitos/nice-readme)
+- [Nice Readme Demo](https://nice-readme.vercel.app/)
 
 ###### ⏱️ WakaTime Stats
 - [WakaTime Readme Stats - Anmol098](https://github.com/anmol098/waka-readme-stats)
